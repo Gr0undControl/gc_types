@@ -1,7 +1,8 @@
 /* Circular XX Black */
 @font-face {
   font-family: 'Circular XX Black New';
-  src: url('https://www.groundcontrolparis.com/wp-content/uploads/2025/04/CircularXX-Black.otf') format('opentype');
+  src: url('https://cdn.jsdelivr.net/gh/Gr0undControl/gc_types/CircularXXWeb-Black.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/Gr0undControl/gc_types/CircularXXWeb-Black.woff') format('woff');
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -10,7 +11,8 @@
 /* Circular XX Black Italic */
 @font-face {
   font-family: 'Circular XX Black Italic New';
-  src: url('https://www.groundcontrolparis.com/wp-content/uploads/2025/04/CircularXX-BlackItalic.otf') format('opentype');
+  src: url('https://cdn.jsdelivr.net/gh/Gr0undControl/gc_types/CircularXXWeb-BlackItalic.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/Gr0undControl/gc_types/CircularXXWeb-BlackItalic.woff') format('woff');
   font-weight: 900;
   font-style: italic;
   font-display: swap;
